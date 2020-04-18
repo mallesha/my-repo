@@ -2,4 +2,4 @@
 
 Welcome to my repo
 1. It is very cool
-2. Need to bring the website
+2. Need to bring up the website
